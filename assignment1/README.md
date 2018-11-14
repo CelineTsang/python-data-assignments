@@ -22,7 +22,7 @@ Data fields
 
 Data Volume
 ----
-130 rows × 5 columns
+698 rows × 5 columns
 
 Obstacles and solution
 ----
@@ -50,4 +50,6 @@ Bonus: Enrich your dataset
 （2）拓展类目，除了热门餐厅再添加其他的内容，例如景点或是热门消费场所。
 
     在http://www.dianping.com 内还有许多值得考虑的数据可进行爬取。
+    
+    #The date of the first submission is NOV 9th（Because the computer always crashes when it catches about 100 messages）, so I update the latest version and I get more data in it.
 
