@@ -28,7 +28,7 @@ Data Volume
 
 Based on DianPing.com(Hong Kong) hot restaurant data analysis and visualization. 
 ----
-Please read the report notebook[here](https://gist.github.com/CelineTsang/e7f82cd1ae292bd04938abf2403fe460)
+Please read the report notebook [here.](https://nbviewer.jupyter.org/gist/CelineTsang/e7f82cd1ae292bd04938abf2403fe460)
 
 We will discuess:
 
